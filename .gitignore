@@ -2,5 +2,5 @@
 .nova/*
 .gitattributes
 Package Files/*
-README.md
 STORE_LISTING.md
+NOTES.md
