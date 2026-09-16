@@ -6,7 +6,9 @@ the wrong orientation and a separate Return Authorization Slip you have to
 handle yourself — this extension turns both into two ready-to-print 4x6
 pages with one click.
 
-**[Install from the Chrome Web Store](#)** <!-- TODO: replace with the live listing URL once published -->
+<!-- TODO: replace with the live listing URL once published -->
+<!--**[Install from the Chrome Web Store](#)** -->
+<img width="1400" height="560" alt="marquee_1400x560" src="https://github.com/user-attachments/assets/7f8e4343-d605-4e21-b4a3-3fd1bbbfdd68" />
 
 ## What it does
 
@@ -22,6 +24,18 @@ loaded a shipping label. Clicking it opens a new tab containing:
 
 The print dialog opens automatically, so there's nothing else to click —
 just confirm the print.
+
+<img width="50%" alt="Return-Page" src="https://github.com/user-attachments/assets/fb11b061-f24c-40be-a387-0cfeaa869adc" />
+
+Amazon Return Instructions Page
+
+<img width="50%" alt="Directions" src="https://github.com/user-attachments/assets/bc306135-a2b5-4cc3-9b73-d7a79a7bacf5" />
+
+Click the "Print 4x6 Return Label" button
+
+<img width="50%" alt="Return-Pop-Up" src="https://github.com/user-attachments/assets/3ddb75ac-3ddc-49ba-bbfa-11fab5881836" />
+
+Window opens and launches the print dialog automatically
 
 ## Privacy
 
