@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "4x6 Return Label Printer for Amazon",
   "version": "1.0.1",
-  "description": "Adds a button to Amazon return-instruction pages that rotates the shipping label and pairs it with the Return Authorization Slip, ready to print on a 4x6 label printer as two sequential labels.",
+  "description": "Adds a button to the Amazon order return page that prepares the shipping label and return slip for printing on a 4x6 label printer.",
   "icons": {
     "16": "icons/icon16.png",
     "32": "icons/icon32.png",
