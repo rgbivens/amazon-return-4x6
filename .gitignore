@@ -1,0 +1,6 @@
+.DS_Store
+.nova/*
+.gitattributes
+Package Files/*
+README.md
+STORE_LISTING.md

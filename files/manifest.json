@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "4x6 Return Label Printer for Amazon",
+  "version": "1.0.1",
+  "description": "Adds a button to Amazon return-instruction pages that rotates the shipping label and pairs it with the Return Authorization Slip, ready to print on a 4x6 label printer as two sequential labels.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.amazon.com/*",
+        "*://*.amazon.com.au/*",
+        "*://*.amazon.com.be/*",
+        "*://*.amazon.com.br/*",
+        "*://*.amazon.ca/*",
+        "*://*.amazon.cn/*",
+        "*://*.amazon.eg/*",
+        "*://*.amazon.fr/*",
+        "*://*.amazon.de/*",
+        "*://*.amazon.in/*",
+        "*://*.amazon.ie/*",
+        "*://*.amazon.it/*",
+        "*://*.amazon.co.jp/*",
+        "*://*.amazon.com.mx/*",
+        "*://*.amazon.nl/*",
+        "*://*.amazon.pl/*",
+        "*://*.amazon.sa/*",
+        "*://*.amazon.sg/*",
+        "*://*.amazon.co.za/*",
+        "*://*.amazon.es/*",
+        "*://*.amazon.se/*",
+        "*://*.amazon.com.tr/*",
+        "*://*.amazon.ae/*",
+        "*://*.amazon.co.uk/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
