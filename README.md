@@ -7,7 +7,8 @@ handle yourself — this extension turns both into two ready-to-print 4x6
 pages with one click.
 
 <!-- TODO: replace with the live listing URL once published -->
-<!--**[Install from the Chrome Web Store](#)** -->
+**[Install from the Chrome Web Store](https://chromewebstore.google.com/detail/fajlokgmlhjfibndifaaggoejnokejnp?authuser=0&hl=en)**
+
 <img width="1400" height="560" alt="marquee_1400x560" src="https://github.com/user-attachments/assets/7f8e4343-d605-4e21-b4a3-3fd1bbbfdd68" />
 
 ## What it does
